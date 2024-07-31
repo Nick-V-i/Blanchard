@@ -1,4 +1,4 @@
 ## Blanchard
 
 - Ссылка на просмотр [тут](https://Nick-V-i.github.io/Blanchard/).
-- Макет из Figma [тут](https://www.figma.com/design/jUPeybAZc1N4Tx727n8ngD/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-(Copy)?node-id=1-660&t=BdhQ060vh9BZshBE-0).
+- Макет из Figma [тут](https://www.figma.com/design/hr1DArCtG3poK6BAV902lP/Blanchard-(new)-(Copy)?node-id=0-1&t=8MgDbrMR4DzJNjty-0).

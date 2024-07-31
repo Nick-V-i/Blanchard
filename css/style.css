@@ -214,7 +214,7 @@ img {
 }
 
 .main-content {
-  background-image: url("./img/main-img.jpg");
+  background-image: url("../img/main-img.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

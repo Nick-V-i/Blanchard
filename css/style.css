@@ -292,7 +292,7 @@ img {
 }
 
 .gallery {
-  background-image: url("img/gallery-img.jpg");
+  background-image: url("../img/gallery-img.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
